@@ -56,11 +56,11 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  height: 250px;
+  height: 290px;
   background-color: #159957;
   background-image: url("../img/iot-banner-01-01.jpg");
 
-  background-size: contain;
+  background-size: cover;
 ; }
 
 @media screen and (min-width: 64em) {
@@ -138,7 +138,7 @@ a {
   margin-top: 0;
   margin-bottom: 1rem;
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #567482;
+  color: #c;
   word-wrap: normal;
   background-color: #f3f6fa;
   border: solid 1px #dce6f0;
