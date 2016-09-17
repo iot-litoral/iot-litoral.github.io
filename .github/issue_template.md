@@ -1,9 +1,16 @@
-Título:
+### Título:
+**Lorem ipsum**
 
-Descripción: 
+### Descripción:
+* Lorem ipsum
+* Lorem ipsum
 
-Disertante:
+### Disertante/s:
+ * Lorem ipsum
 
-Email (si no está en el perfil de github):
+### Email:
+* test@test.com
 
-Tipo: lightning talk (5/10 minutos) | corta duración (20 minutos) | larga duración (40 minutos)
+### Tipo: lightning talk (5/10 minutos) | corta duración (20 minutos) | larga duración (40 minutos)
+* Larga duracion
+
